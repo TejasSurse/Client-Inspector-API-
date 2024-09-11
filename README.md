@@ -1,7 +1,3 @@
-
-Memory updated
-Here's a project description for your IP, language, and software extraction API, designed to appeal to developers and highlight how it can solve real-world problems:
-
 Client Inspector API 🌍🕵️‍♂️
 Extract Client IP, Language, and Software Information Effortlessly
 
